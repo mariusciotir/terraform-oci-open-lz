@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-12-12T10:53:51.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="grF4LRxO-prkxbCiS_SI" version="22.1.2" type="device" pages="8">
+<mxfile host="Electron" modified="2024-03-19T12:38:56.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="qVHa6jBon9YWJImRJ7E6" version="22.0.2" type="device" pages="8">
   <diagram id="b9hU5v1Cp9lCEPGJeyjb" name="WELCOME">
-    <mxGraphModel dx="1314" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,14 +10,14 @@
         <mxCell id="-QC0tSYTYqrIFTyBJo3L-3" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Welcome to the &lt;/span&gt;OCI Learn LZ&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;drawio. This landing zone is an exercise to enable design and IaC configuration skills.&lt;br&gt;&lt;br&gt;This document contains the design diagrams for the following views and are distributed through several tabs:&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Functional View (tab FUN) - Presents the functional scope and the target operating model.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Security View. (tab SEC) - Presents exercise #1 to create the tenancy structure.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Network View (tab NET)&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Presents exercise #2 to create the network structure.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please use the Drawio Layers on each Tab to navigate through the exercises.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;You can find the lastest version of this document &lt;a href=&quot;https://github.com/oracle-quickstart/terraform-oci-open-lz/blob/master/design/OCI_Open_LZ.drawio&quot;&gt;here&lt;/a&gt;, on the &lt;a href=&quot;https://github.com/oracle-quickstart/terraform-oci-open-lz&quot;&gt;OCI Open LZ Blueprint git repository&lt;/a&gt;.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="50" y="305" width="640" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="zmcHhumPG1Z-pTWbAKpW-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/oracle-quickstart/terraform-oci-open-lz/raw/master/images/oci_open_lz.jpg;" vertex="1" parent="1">
+        <mxCell id="zmcHhumPG1Z-pTWbAKpW-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/oracle-quickstart/terraform-oci-open-lz/raw/master/images/oci_open_lz.jpg;" parent="1" vertex="1">
           <mxGeometry x="31.59" y="20" width="708.41" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="jznangBFOFOfhvwTllcX" name="FUN - ERD">
-    <mxGraphModel dx="1877" dy="1361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="FUNCTIONAL VIEW" parent="0" />
@@ -312,7 +312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SEC - EXERCISE #1" id="rCw9asK_bj89P20LJt1n">
-    <mxGraphModel dx="1314" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iWbFeoIrSDtq8rXE3Ji1-0" />
         <mxCell id="Danz3dhZeio30WDhMblK-1" value="EXERCISE" parent="iWbFeoIrSDtq8rXE3Ji1-0" />
@@ -452,6 +452,12 @@
         </mxCell>
         <mxCell id="iWbFeoIrSDtq8rXE3Ji1-11" value="&lt;b&gt;&lt;font color=&quot;#ae562c&quot;&gt;cmp-channels-nonprod&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;align=left;fontFamily=Oracle Sans;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashPattern=1 1;fontSize=12;perimeterSpacing=0;spacingLeft=5;" parent="iUvbq5VLqL-WmvSjqMhM-0" vertex="1">
           <mxGeometry x="600" y="610" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lXtl9PJL2sujShCREDZe-0" value="&lt;b&gt;&lt;font color=&quot;#ae562c&quot;&gt;cmp-channels-nonprod&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;align=left;fontFamily=Oracle Sans;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashPattern=1 1;fontSize=12;perimeterSpacing=0;spacingLeft=5;" vertex="1" parent="iUvbq5VLqL-WmvSjqMhM-0">
+          <mxGeometry x="600" y="610" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lXtl9PJL2sujShCREDZe-1" value="&lt;b&gt;&lt;font color=&quot;#ae562c&quot;&gt;cmp-channels-nonprod&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;align=left;fontFamily=Oracle Sans;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;dashPattern=1 1;fontSize=12;perimeterSpacing=0;spacingLeft=5;" vertex="1" parent="iUvbq5VLqL-WmvSjqMhM-0">
+          <mxGeometry x="770" y="610" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iUvbq5VLqL-WmvSjqMhM-1" value="STEP 2 - EXERCISE" parent="iWbFeoIrSDtq8rXE3Ji1-0" visible="0" />
         <mxCell id="iWbFeoIrSDtq8rXE3Ji1-12" value="&lt;b&gt;&lt;font color=&quot;#ae562c&quot;&gt;cmp-security&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;align=left;fontFamily=Oracle Sans;verticalAlign=top;fillColor=#faf8d6;strokeColor=#45565f;dashPattern=1 1;fontSize=12;perimeterSpacing=0;spacingLeft=5;" parent="iUvbq5VLqL-WmvSjqMhM-1" vertex="1">
